@@ -1,0 +1,44 @@
+.header{
+    background-color: rgb(110, 110, 110);
+}
+.title{
+    color:rgb(255, 51, 0);
+    text-align: center;
+    font-size: 50px;
+}
+/*body*/
+
+body{
+    background-color:rgb(248, 248, 193);
+}
+.titlemain{
+    color:rgba(255, 68, 0, 0.76);
+    font-size: 30px;
+}
+.lines{
+    font-size: 20px;
+    color:rgb(20, 20, 20);
+}
+.ul{
+    color: rgb(248, 0, 0);
+}
+.flex{
+    display: flex;
+}
+.padd1{
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: rgba(244, 165, 96, 0.548);
+}
+.padd2{
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: rgb(233, 230, 87);
+}
+.padd3{
+    padding-left: 205px;
+}
+.padd4{
+    padding-left: 205px;
+
+}
