@@ -1,8 +1,8 @@
 .header{
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(204, 201, 201);
 }
 .title{
-    color:rgb(255, 51, 0);
+    color:rgb(24, 22, 22);
     text-align: center;
     font-size: 50px;
 }
@@ -12,7 +12,7 @@ body{
     background-color:rgb(248, 248, 193);
 }
 .titlemain{
-    color:rgba(255, 68, 0, 0.76);
+    color:rgba(0, 0, 0, 0.76);
     font-size: 30px;
 }
 .lines{
@@ -28,17 +28,27 @@ body{
 .padd1{
     padding-right: 50px;
     padding-left: 50px;
-    background-color: rgba(244, 165, 96, 0.548);
+    background-color: rgb(235, 235, 235);
 }
 .padd2{
     padding-right: 50px;
     padding-left: 50px;
-    background-color: rgb(233, 230, 87);
+    background-color: rgb(156, 156, 156);
 }
 .padd3{
-    padding-left: 205px;
+    padding-left: 110px;
 }
 .padd4{
-    padding-left: 205px;
+    padding-left: 105px;
 
+}
+.padd5{
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: slategrey;
+}
+.footer{
+    text-align:center;
+    background-color: lightcoral;
+    font-size: 20px;
 }
